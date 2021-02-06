@@ -4,7 +4,7 @@
 
 A casesar cipher is a simple encryption method that shifts the value of a character by the value of the shift.
 
-For example, if shift if 1, then A becomes B, 1 becomes 2, etc.
+For example, if shift is 1, then A becomes B, 1 becomes 2, etc.
 
 ### The function 
 
