@@ -10,9 +10,9 @@ For example, if shift if 1, then A becomes B, 1 becomes 2, etc.
 
  *``ceasar_cipher``*
  
- ceasar_cipher accepts three arguments:
-     1. ``pw_str`` - the string you are wanting to encrypt
-     2. ``shift`` - the value you want the cipher to apply (1-9)
+ ceasar_cipher accepts three arguments: <br>
+     1. ``pw_str`` - the string you are wanting to encrypt <br>
+     2. ``shift`` - the value you want the cipher to apply (1-9) <br>
      3. ``decryption`` - a bool when set to `True` will decrypt your encrypted string*
          *must know original shift value*
 
