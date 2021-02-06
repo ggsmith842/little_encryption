@@ -8,7 +8,7 @@ For example, if shift if 1, then A becomes B, 1 becomes 2, etc.
 
 ### The function 
 
- *``ceasar_cipher``*
+ *``caesar_cipher``*
  
  ceasar_cipher accepts three arguments: <br>
      1. ``pw_str`` - the string you are wanting to encrypt <br>
