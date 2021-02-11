@@ -16,6 +16,12 @@ For example, if shift is 1, then A becomes B, 1 becomes 2, etc.
      3. ``decryption`` - a bool when set to `True` will decrypt your encrypted string*
          *must know original shift value*
 
-**Important Notes**
+*example* <br>
+``caesar_cipher('PassWord20',1)``
 
-- Remember the shift value if you want to be able to decrypt a string later
+output: ``(QbttXpse31, sv1)``
+
+
+**Important Note** <br>
+ Remember the shift value if you want to be able to decrypt a string later
+
