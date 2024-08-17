@@ -23,7 +23,7 @@ def ceasar_cipher(text: str, encrypt: bool = True, shift_value: int = 1) -> str:
 
 
 if __name__ == '__main__':
-    text = "hello, world"
+    text = "Hello, World!"
 
     encrypted_text = ceasar_cipher(text)
 
